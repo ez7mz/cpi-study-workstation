@@ -45,4 +45,10 @@ $ git clone https://github.com/ez7mz/Education-Path.git
   <a href="mailto:mesrarhamza48@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://twitter.com/ez7mz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+  </a>
+  <a href="discordapp.com/users/ez7mz#4781" target="_blank">
+    <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </p>
