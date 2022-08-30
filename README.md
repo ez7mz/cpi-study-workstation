@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="" alt="Banner">
+  <img src="srcs/imgs/ed-cover.png" alt="Banner">
 </p>
