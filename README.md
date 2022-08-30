@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/tiangolo/fastapi/workflows/Test/badge.svg?event=push&branch=master" alt="School">
-  <img src="https://img.shields.io/codecov/c/github/tiangolo/fastapi?color=%2334D058" alt="Industry">
+  <img src="srcs/badges/badge-school.png" alt="School">
+  <img src="srcs/badges/badge-author.png" alt="author">
   <img src="https://img.shields.io/pypi/v/fastapi?color=%2334D058&label=pypi%20package" alt="Diploma">
   <img src="https://img.shields.io/pypi/pyversions/fastapi.svg?color=%2334D058" alt="Period">
 </p>
