@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/ez7mz/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/ez7m.z/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
 </p>
 ---
-
-![LinkedIn](https://www.linkedin.com/in/ez7mz/)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
