@@ -30,7 +30,7 @@ MESRAR Hamza 22 years old, 2<sup>nd</sup> year IT and Data Engineering Student <
 <div class="termy">
 
 ```console
-$ git clone 
+$ git clone https://github.com/ez7mz/Education-Path.git
 
 ---> 100%
 ```
