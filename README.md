@@ -22,3 +22,6 @@
 </p>
 
 ---
+
+##About
+MESRAR Hamza 22 years old, 2<sup>nd</sup> year IT and Data Engineering Student @ENSAKH passionate by Data Analysis and machine learning, or rather any coding industry.
