@@ -36,3 +36,17 @@ $ git clone https://github.com/ez7mz/Education-Path.git
 ```
 
 </div>
+
+---
+
+## Find me
+
+<a href"mailto:mesrarhamza48@gmail.com">
+  <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
+</a>
+<a href"https://twitter.com/ez7mz">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+<a href"discordapp.com/users/ez7mz#4781">
+  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+</a>
