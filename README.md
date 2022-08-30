@@ -14,8 +14,10 @@
         <img src="srcs/badges/badge-school.png" alt="School">
   </a>
   <a href="https://www.linkedin.com/in/ez7mz/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 ---
 
 ![LinkedIn](https://www.linkedin.com/in/ez7mz/)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
