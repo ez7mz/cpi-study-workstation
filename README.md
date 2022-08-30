@@ -13,7 +13,9 @@
   <a href="https://ensak.usms.ac.ma/ensak/" target="_blank">
         <img src="srcs/badges/badge-school.png" alt="School">
   </a>
-  ![LinkedIn](https://www.linkedin.com/in/ez7mz/)
+  <a href="https://www.linkedin.com/in/ez7mz/" target="_blank">
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
 </p>
 
 ---
