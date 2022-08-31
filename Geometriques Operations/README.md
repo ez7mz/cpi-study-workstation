@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../srcs/imgs/C-project-2020.png" alt="Banner">
+  <img src="../srcs/imgs/C-project-2020.png" alt="Banner" width="250px">
 </p>
 
 <p align="center">
@@ -8,10 +8,10 @@
 
 ---
 
-## Description
+## 📝 Description
 This project implement the basics geometric operations between space points and vectors with a simple program with C language.
 
-## Languages and Technologies
+## 💻 Languages and Technologies
 
 <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
