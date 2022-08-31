@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <em>This repo contains all projects that i did in my education path</em>
+    <em>This repo contains all academic projects that i did in my education path</em>
 </p>
 
 <p align="center">
