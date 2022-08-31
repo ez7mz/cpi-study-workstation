@@ -1,5 +1,6 @@
 '''
-    Author : MESRAR Hamza - ez7mz - 🦂
+    Author : MESRAR Hamza - @ez7m.z - 🦂
+    💬 : mesrarhamza48@gmail.com
 '''
 
 # First call of the function for the second move : on move the n-1 discs from B to C
