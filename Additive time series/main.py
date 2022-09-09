@@ -1,3 +1,8 @@
+'''
+    Author : MESRAR Hamza - @ez7m.z - 🦂
+    💬 : mesrarhamza48@gmail.com
+'''
+
 #Importation du fichier qui contienne la Class
 from outils import *
 

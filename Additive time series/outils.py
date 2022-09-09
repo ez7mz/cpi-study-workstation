@@ -1,3 +1,8 @@
+'''
+    Author : MESRAR Hamza - @ez7m.z - 🦂
+    💬 : mesrarhamza48@gmail.com
+'''
+
 from cmath import nan
 import matplotlib.pyplot as pt
 
