@@ -27,7 +27,6 @@
 Through my education path in IT & Data engineering, we do a lot of academic project in this repository you will find the most of them.
 
 ## How to get Documents
-<div class="termy">
 
 ```console
 $ git clone https://github.com/ez7mz/Education-Path.git
@@ -35,11 +34,9 @@ $ git clone https://github.com/ez7mz/Education-Path.git
 ---> 100%
 ```
 
-</div>
+<br>
 
----
-
-## Find me
+# Find me
 
 <p align="center">
   <a href="mailto:mesrarhamza48@ez7mz.me" target="_blank">
