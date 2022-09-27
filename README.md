@@ -23,8 +23,8 @@
 
 ---
 
-## About
-MESRAR Hamza 22 years old, 2<sup>nd</sup> year IT and Data Engineering Student <a href="https://ensak.usms.ac.ma/ensak/" target="_blank">@ENSAKH</a> passionate by Data Analysis and machine learning, or rather any coding industry.
+# Description
+Through my education path in IT & Data engineering, we do a lot of academic project in this repository you will find the most of them.
 
 ## How to get Documents
 <div class="termy">
@@ -42,7 +42,7 @@ $ git clone https://github.com/ez7mz/Education-Path.git
 ## Find me
 
 <p align="center">
-  <a href="mailto:mesrarhamza48@gmail.com" target="_blank">
+  <a href="mailto:mesrarhamza48@ez7mz.me" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://twitter.com/ez7mz" target="_blank">
